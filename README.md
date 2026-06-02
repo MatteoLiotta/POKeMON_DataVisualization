@@ -17,7 +17,13 @@ Following the project assignment we provide <b>three different visualization</b>
 
 ### Slides and Presentation
 
-This repository contains the PDF files for the final presentation. All graphical elements and resources used for the slides construction, are listed below under references section. Notice that text and sprites has been modified so to match with our visualization purposes via both Python scripts and Affinity software. This results in the slides available under the Canva website [here](https://canva.link/poke-project-dv2026) or to the downloadable PDF here available under `PRESENTATION/presentation.pdf`.
+This repository contains the PDF files for the final presentation. All graphical elements and resources used for the slides construction, are listed below under [references](#references) section. Notice that text and sprites has been modified so to match with our visualization purposes via both Python scripts and Affinity software. This results in the slides available under the Canva website [here](https://canva.link/poke-project-dv2026) or to the downloadable PDF here available under `PRESENTATION/presentation.pdf`.
+
+<br/>
+
+### Copyright & Intellectual Property Disclaimer
+Pokémon and all respective names, assets, and trademarks are property of Nintendo, The Pokémon Company, Game Freak, and Creatures Inc. This is a non-profit, fan-made project and is not affiliated with, sponsored, or endorsed by the official copyright holders in any way. The sprites featured in this project have been modified/recolored from the original assets solely for entertainment and personal creativity purposes. This project is strictly non-profit, is not monetized in any form, and is not intended to infringe upon the copyrights of the rightful owners.
+
 
 <br/>
 
