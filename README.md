@@ -1,5 +1,7 @@
 ## POKéMON - Data Visualization
 
+> Data visualization @ Università degli Studi di Trieste, Final Project Repository. *Curated by M. Liotta, S. Calabretta*
+
 </br> 
 
 
