@@ -1,0 +1,15 @@
+pandas
+fsspec
+huggingface_hub
+ipywidgets
+jupyter
+matplotlib
+seaborn
+holoviews
+openpyxl
+geopandas
+networkx
+adjustText
+plotly
+scikit-learn
+kaleido
