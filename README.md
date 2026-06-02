@@ -3,13 +3,12 @@
 > Data visualization @ Università degli Studi di Trieste, Final Project Repository. *Curated by M. Liotta, S. Calabretta*
 
 </br> 
-
-
 <table>
   <tr>
   <td bgcolor="#f6f8fa">
     <h3>Project Abstract</h3>
-Following the project assignment we provide <b>three different visualization</b> about a PoKéMON dataset publicly available on kaggle <a href="https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025">[1]</a>. This repository provides code for visualization reconstruction, in-plot used sprites and related PDF slides. 
+Following the project assignment we provide <b>three different visualization</b> about a PoKéMON dataset publicly available on kaggle <a href="https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025">[1]</a>. This repository provides code for visualization reconstruction, in-plot used sprites and related PDF slides. <br><br>
+    <div align="center"><img src="https://github.com/MatteoLiotta/POKeMON_DataVisualization/blob/main/IMAGES/Game%20Screen%20def.png" width="45%" /></div>
     <br><br>
     </td>
   </tr>
