@@ -21,6 +21,18 @@ This repository contains the PDF files for the final presentation. All graphical
 
 <br/>
 
+### Code usage and environment
+All code is available under `Final Code` folder. The python environment has been provided too, which can be initialized by the execution of:
+
+```
+$: ./setup.sh
+$: source py_env/bin/activate
+```
+
+Each of the provided visualizations have a dedicated `.ipynb` file.
+
+<br/>
+
 ### Copyright & Intellectual Property Disclaimer
 Pokémon and all respective names, assets, and trademarks are property of Nintendo, The Pokémon Company, Game Freak, and Creatures Inc. This is a non-profit, fan-made project and is not affiliated with, sponsored, or endorsed by the official copyright holders in any way. The sprites featured in this project have been modified/recolored from the original assets solely for entertainment and personal creativity purposes. This project is strictly non-profit, is not monetized in any form, and is not intended to infringe upon the copyrights of the rightful owners.
 
