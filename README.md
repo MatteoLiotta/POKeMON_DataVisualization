@@ -15,8 +15,19 @@ Following the project assignment we provide <b>three different visualization</b>
 
 </br> 
 
-## Slides and Presentation
+### Slides and Presentation
 
 <br/>
 
-## References
+
+### References
+
+* Main Kaggle repository: https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025
+
+* [POKéMON of the year](https://pokemon2020.pokemon.com/en-us/)
+
+* In-plot used sprites, only for 2020 preferred POKéMONs: [here](https://github.com/msikma/pokesprite)
+
+* Presentation sprites, publicly available:
+  * [Resource 1](https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/)
+  * [Resource 2](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/)
