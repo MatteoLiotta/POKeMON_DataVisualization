@@ -37,5 +37,12 @@ Pokémon and all respective names, assets, and trademarks are property of Ninten
 * In-plot used sprites, only for 2020 preferred POKéMONs: [here](https://github.com/msikma/pokesprite)
 
 * Presentation sprites, publicly available:
-  * [Resource 1](https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/)
-  * [Resource 2](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/)
+  * Resource 1: [here](https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/)
+  * Resource 2: [here](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/)
+ 
+* Font and text related resources:
+  * Resource 1: [here](https://fontstruct.com/fontstructions/show/1975556/pokemon-emerald-9)
+  * Resource 2: [here](https://fontstruct.com/fontstructions/show/1723353/pokemon-firered-leafgreen-font-recreation)
+  * Resource 3: [here](https://fonts.google.com/specimen/Press+Start+2P)
+
+
