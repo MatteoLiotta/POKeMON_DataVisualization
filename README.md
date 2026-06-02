@@ -17,6 +17,8 @@ Following the project assignment we provide <b>three different visualization</b>
 
 ### Slides and Presentation
 
+This repository contains the PDF files for the final presentation. All graphical elements and resources used for the slides construction, are listed below under references section. Notice that text and sprites has been modified so to match with our visualization purposes via both Python scripts and Affinity software. This results in the slides available under the Canva website [here](https://canva.link/poke-project-dv2026) or to the downloadable PDF here available under `PRESENTATION/presentation.pdf`.
+
 <br/>
 
 
