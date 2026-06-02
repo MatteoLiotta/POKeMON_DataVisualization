@@ -8,9 +8,7 @@
   <td bgcolor="#f6f8fa">
     <h3>Project Abstract</h3>
 Following the project assignment we provide <b>three different visualization</b> about a PoKéMON dataset publicly available on kaggle <a href="https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025">[1]</a>. This repository provides code for visualization reconstruction, in-plot used sprites and related PDF slides. <br><br>
-    <div align="center"><img src="https://github.com/MatteoLiotta/POKeMON_DataVisualization/blob/main/IMAGES/Game%20Screen%20def.png" width="45%" /></div>
-    <br><br>
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -19,6 +17,8 @@ Following the project assignment we provide <b>three different visualization</b>
 ### Slides and Presentation
 
 This repository contains the PDF files for the final presentation. All graphical elements and resources used for the slides construction, are listed below under [references](#references) section. Notice that text and sprites has been modified so to match with our visualization purposes via both Python scripts and Affinity software. This results in the slides available under the Canva website [here](https://canva.link/poke-project-dv2026) or to the downloadable PDF here available under `PRESENTATION/presentation.pdf`.
+
+<div align="center"><img src="https://github.com/MatteoLiotta/POKeMON_DataVisualization/blob/main/IMAGES/Game%20Screen%20def.png" width="45%" /></div>
 
 <br/>
 
