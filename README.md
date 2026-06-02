@@ -22,9 +22,9 @@ Following the project assignment we provide <b>three different visualization</b>
 
 ### References
 
-* Main Kaggle repository: https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025
+* Main Kaggle repository: [here](https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025)
 
-* [POKéMON of the year](https://pokemon2020.pokemon.com/en-us/)
+* POKéMON of the year: [here](https://pokemon2020.pokemon.com/en-us/)
 
 * In-plot used sprites, only for 2020 preferred POKéMONs: [here](https://github.com/msikma/pokesprite)
 
