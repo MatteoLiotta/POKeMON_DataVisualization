@@ -35,28 +35,36 @@ Each of the provided visualizations have a dedicated `.ipynb` file.
 
 <br/>
 
-### Copyright & Intellectual Property Disclaimer
-Pokémon and all respective names, assets, and trademarks are property of Nintendo, The Pokémon Company, Game Freak, and Creatures Inc. This is a non-profit, fan-made project and is not affiliated with, sponsored, or endorsed by the official copyright holders in any way. The sprites featured in this project have been modified/recolored from the original assets solely for entertainment and personal creativity purposes. This project is strictly non-profit, is not monetized in any form, and is not intended to infringe upon the copyrights of the rightful owners.
+
+### References
+
+~ Main Kaggle repository: [Ultimate Pokémon Dataset (2025)](https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025)<br>
+~ POKéMON of the year list: [Pokémon of the Year (2020)](https://pokemon2020.pokemon.com/en-us/)<br>
+~ In-plot used sprites, only for 2020 preferred POKéMONs: [PokéSprite Repository](https://github.com/msikma/pokesprite)<br>
+
+~ Presentation sprites, publicly available:<br>
+  - Resource 1: [Ruby/Sapphire](https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/)
+  - Resource 2: [FireRed/LeafGreen](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/)
+
+~ Font and text related resources:<br>
+  * Resource 1: [Emerald](https://fontstruct.com/fontstructions/show/1975556/pokemon-emerald-9)
+  * Resource 2: [FireRed/LeafGreen](https://fontstruct.com/fontstructions/show/1723353/pokemon-firered-leafgreen-font-recreation)
+  * Resource 3: [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)
 
 
 <br/>
 
+<br/>
 
-### References
+<br/>
 
-* Main Kaggle repository: [here](https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025)
-
-* POKéMON of the year: [here](https://pokemon2020.pokemon.com/en-us/)
-
-* In-plot used sprites, only for 2020 preferred POKéMONs: [here](https://github.com/msikma/pokesprite)
-
-* Presentation sprites, publicly available:
-  * Resource 1: [here](https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/)
-  * Resource 2: [here](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/)
- 
-* Font and text related resources:
-  * Resource 1: [here](https://fontstruct.com/fontstructions/show/1975556/pokemon-emerald-9)
-  * Resource 2: [here](https://fontstruct.com/fontstructions/show/1723353/pokemon-firered-leafgreen-font-recreation)
-  * Resource 3: [here](https://fonts.google.com/specimen/Press+Start+2P)
+<table>
+  <tr>
+  <td bgcolor="#f6f8fa">
+    <b>Copyright & Intellectual Property Disclaimer</b>
+<p><font size="2">Pokémon and all respective names, assets, and trademarks are property of Nintendo, The Pokémon Company, Game Freak, and Creatures Inc. This is a non-profit, fan-made project and is not affiliated with, sponsored, or endorsed by the official copyright holders in any way. The sprites featured in this project have been modified/recolored from the original assets solely for entertainment and personal creativity purposes. This project is strictly non-profit, is not monetized in any form, and is not intended to infringe upon the copyrights of the rightful owners.</font></p>
+  </td>
+  </tr>
+</table>
 
 
